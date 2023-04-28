@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🏫Student at Imarticus learning <br>🧑‍🎓 I'm current learning Data Science<br>🌏 From Bengaluru, Karnataka, India</p>
+<p align="left">🏫Student at Imarticus learning <br>🧑‍🎓 I'm currently learning Data Science<br>🌏 From Bengaluru, Karnataka, India</p>
 
 ###
 
